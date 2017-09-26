@@ -45,7 +45,7 @@ Input tape.
 Contains the list of commands in the following format:
 **1 a 2 b r**.
 
-When the machine is in state '1' and there is 'a' as the current read symbol, switch the machine to the state 2 and type 'b' instead of 'a'. Shift the pointer of the tape  right.
+When the machine is in state '1' and there is 'a' as a current read symbol, switch the machine to the state 2 and type 'b' instead of 'a'. Shift the pointer of the tape  right.
 
 * r - shift right;
 * l - shift left;
