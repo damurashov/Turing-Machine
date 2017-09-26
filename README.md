@@ -4,7 +4,7 @@
 There is nothing better than a good example. See folder **./bin**.
 
 ## Contributing
-![Architecture]()
+![Architecture](https://github.com/sleeplynerd/Turing-Machine/blob/master/architecture/arch.png)
 
 ## Input data format
 ### 'alphabet.tm'
