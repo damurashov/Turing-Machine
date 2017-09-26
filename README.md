@@ -6,7 +6,7 @@ There is nothing better than a good example. See folder **./bin**.
 ## Contributing
 ![Architecture](https://github.com/sleeplynerd/Turing-Machine/blob/master/architecture/arch.png)
 
-See folder **./architecture** to get a full view of the project.
+See folder **./architecture** to get a full view of the project. If you need examples, look at the file **main/main.cpp**
 
 In short, class "Machine" is the core of the whole project. Machine's constructor receives 3 objects: an "infinite" input tape, a set of commands and an alphabet.
 
