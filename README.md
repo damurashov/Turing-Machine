@@ -30,7 +30,7 @@ The symbol is not present in the alphabet.
 CommandSet's constructor can not parse an instruction in the input file.
 
 ### Err InfiniteLoop
-The computation takes too much time. The limit is set by MAX_ITERS in class Machine.
+The computation takes too much iterations. The limit is set in class Machine.
 
 ```cpp
 int Machine::MAX_ITERS = 100000;
