@@ -38,7 +38,7 @@ int Machine::MAX_ITERS = 100000;
 
 ## Input data format
 ### 'alphabet.tm'
-File alphabet contains the string of allowed symbols. Underscore "_" is allowed by default.
+Contains the string of allowed symbols. Underscore "_" is allowed by default.
 ### 'tape.tm'
 Input tape.
 ### 'commands.tm'
